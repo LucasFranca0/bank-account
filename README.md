@@ -42,4 +42,7 @@ $ javac -d . *.java
 # Run the project
 $ java  bank-account/Program
 ```
+## Data expected by the program
+![Captura de Tela (43)](https://user-images.githubusercontent.com/111810585/216229532-c76a4ac1-c4ac-4db9-993d-83b7f45a5bb3.png)
+
 
