@@ -19,7 +19,11 @@
  - List
  
  ## Extract
- In this operation, the loan amount was used
+### Explaining how the project works:
+
+An input file was created manually with some products and from the path of this file a folder was created and inside the extract file with the output of the manipulated data.
+
+**In this operation, the loan amount was used**
 
  
  ![extract](https://user-images.githubusercontent.com/111810585/216228987-6c395cd3-e8cb-4734-aa42-fb2c9518e200.png)
